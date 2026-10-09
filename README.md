@@ -57,13 +57,13 @@ This GitHub is my working portfolio. Each project is a hands-on lab I build in i
 
 | # | Project | What it demonstrates | Status |
 |---|---------|----------------------|--------|
-| 1 | **linux-security-hardening-lab** | Least-privilege users, permissions, key-only SSH, UFW firewall, auth-log brute-force detection, before/after audit | In progress |
+| 1 | **[linux-security-hardening-lab](https://github.com/sins05/linux-security-hardening-lab)** | Least-privilege users, permissions, key-only SSH, UFW firewall, auth-log brute-force detection, before/after audit | In progress |
 | 2 | **soc-home-lab** | Wazuh SIEM, Linux log collection, failed-login investigation, alert triage, incident reports | Planned |
 | 3 | **windows-security-lab** | Active Directory, Group Policy, Event Viewer (4625 / 4740), account lockout investigation, PowerShell auditing | Planned |
 | 4 | **network-security-monitoring-lab** | Wireshark packet analysis, DNS and HTTP investigation, detecting scans in lab traffic | Planned |
 | 5 | **vulnerability-assessment-lab** | Scoped scanning of a training target, CVSS triage, remediation and retest report | Planned |
 
-Each project gets a link here once its repository is published. It is marked **Completed** only after it has been run end to end with real evidence. All testing happens in isolated VMs I own; no real company data or credentials are ever committed.
+Each project is linked here once its repository is published. It is marked **Completed** only after it has been run end to end with real evidence. All testing happens in isolated VMs I own; no real company data or credentials are ever committed.
 
 **Foundations:** [CCNA-Notes](https://github.com/sins05/CCNA-Notes) · [Network-Lab](https://github.com/sins05/Network-Lab) · [Linux-Commands](https://github.com/sins05/Linux-Commands) · [Bash-Scripts](https://github.com/sins05/Bash-Scripts)
 
